@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "role": "Software Developer Intern",
+    "organisation": "Astrea It Services",
+    "startDate": "January, 2024",
+    "endDate": "Present",
+    "location": "Noida Uttar Pradesh",
+    "experiences": [
+      "Worked on Salesfoce Admin Part",
+      "Worked with the Salesforce Development Team"
+    ],
+    "imageSrc": "company/astrea.png"
+  }
+]
